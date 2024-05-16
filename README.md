@@ -1,7 +1,7 @@
 # Hi there, I'm Sardor Ramazonov 👋 
 
 ## I'm a Backend Developer, and Teacher!
-
+- 💬 Ask me about Python, Django, Postgresql and Git/Github
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
