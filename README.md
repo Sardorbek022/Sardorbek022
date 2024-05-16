@@ -21,9 +21,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/_sardorbek__b/#gh-dark-mode-only)
 
 
-
-### Languages and Tools:
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -34,7 +31,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </br>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?Sardorbek022=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <br />
 
